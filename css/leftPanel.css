@@ -1,0 +1,20 @@
+.leftPanel {
+    width: 100px;
+    height: 625px;
+    background-color: midnightblue;
+    border-radius: 100px;
+    position: fixed;
+    left: -50px;
+    bottom: 15px;
+  }
+
+  .leftPanelHandle {
+    width: 5px;
+    height: 150px;
+    border-radius: 150px;
+    text-align: left;
+    background-color: rgb(46, 46, 100);
+    position: fixed;
+    left: 35px;
+    bottom: 275px;
+  }
